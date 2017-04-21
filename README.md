@@ -1,6 +1,6 @@
 # gitskills
-what
-createing a old branch is quick and simple.
-nimasb
-what
-nima
+#what
+#createing a old branch is quick and simple.
+#nimasb
+#what
+#nima
